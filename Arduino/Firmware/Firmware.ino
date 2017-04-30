@@ -9,7 +9,13 @@
 // ======================= END OF INCLUDE BLOCK // =============================
 
 // =======================Pin Definitions - ONLY MODIFY PIN NUMBERS // =========
-
+#define LCD_PIN_RS	2
+#define LCD_PIN_R_W	9
+#define LCD_PIN_E	4
+#define LCD_PIN_DB4	8
+#define LCD_PIN_DB5	6
+#define LCD_PIN_DB6	7
+#define LCD_PIN_DB7	3
 
 // =======================Pin Definitions // ===================================
 
